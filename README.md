@@ -78,10 +78,6 @@ Use the theme toggle button in the top-right corner to switch between:
 -   🌙 Dark mode
 -   🖥️ System preference
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
